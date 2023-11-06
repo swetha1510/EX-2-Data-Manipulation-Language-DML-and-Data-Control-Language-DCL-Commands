@@ -2,7 +2,6 @@
 ## AIM:
 To create a manager database and execute DML queries using SQL.
 
-
 ## DML(Data Manipulation Language)
 <div align="justify">
 The SQL commands that deal with the manipulation of data present in the database belong to DML or Data Manipulation Language and this includes most of the SQL statements. It is the component of the SQL statement that controls access to data and to the database. Basically, DCL statements are grouped with DML statements.
@@ -138,3 +137,6 @@ SELECT designation, COUNT(*) AS "Number of Employees" FROM manager GROUP BY desi
 ```
 ### OUTPUT:
 ![Screenshot 2023-10-02 141503](https://github.com/swetha1510/EX-2-Data-Manipulation-Language-DML-and-Data-Control-Language-DCL-Commands/assets/120623583/b7c74589-da33-4911-8942-001969cfb6ce)
+
+### RESULT:
+Thus the  Data Manipulation Language (DML) Commands and built in functions in SQL are done.
